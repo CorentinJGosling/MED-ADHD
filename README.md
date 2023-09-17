@@ -10,7 +10,7 @@ The MED-EAGG project is a database of 151 randomized controlled trials (RCTs) ex
 2. Read the data dictionnary below and record all the variables of interest.
 3. Fullfill a proposal form, which includes a description of the projet, a list of variables you would need, as well as a description of the team behind it (https://docs.google.com/forms/d/e/1FAIpQLSfOku8vVWqndY_6WZ8H2lqbftxBq0EwXcwUWxggRO6ac0RIMQ/viewform?usp=sf_link[https://docs.google.com/forms/d/e/1FAIpQLSfOku8vVWqndY_6WZ8H2lqbftxBq0EwXcwUWxggRO6ac0RIMQ/viewform?usp=sf_link]) .
 4. Wait for the approval of your request by the executive committee.
-5. Once approved, you will receive the dataset by encrypted e-mail. You will need a Proton eail account to obtain it (https://proton.me/fr/mail[https://proton.me/fr/mail]).
+5. Once approved, you will receive the dataset by encrypted e-mail. You will need a Proton email account to obtain it (https://proton.me/fr/mail[https://proton.me/fr/mail]).
 6. At that time, you will also receive the list of MED-ADHD collaborators that you must include as co-authors of your paper.
 7. Analyze the dataset and send us the manuscript describing the results.
 8. Publish the manuscript (note that the code used to analyze the data **MUST** be publicly shared, **but that the raw data cannot be shared**).
