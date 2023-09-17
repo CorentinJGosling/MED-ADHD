@@ -1,3 +1,5 @@
 *.gsheet
 
 *.gform
+
+raw_data/
