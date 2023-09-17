@@ -1,4 +1,4 @@
-# Medication's RCT Dataset Curated at Southampton University (MED-ADHD)
+# EAGG RCT Dataset Curated at Southampton University (MED-ADHD)
 
 ## Description of the database
 
