@@ -14,10 +14,21 @@ Before reaching us to access the data, you must check that a project similar to 
 
 ## Access to the data
 
-If the project you are planning is not already underway, to obtain the data, you should describe to our committee the rationale of your project, the variables you would need, and the team that will support the publication of the results. You can retrieve the codes for all the variables that can be requested in the various excel files above, and in the list at the bottom of this page.
+If the project you are planning is not already underway, to obtain the data, you should describe to our committee the rationale of your project, the variables you would need, and the team that will support the publication of the results. You can retrieve the list of all the variables that can be requested in the various excel files above, and in the list at the bottom of this page.
 
 To apply for the data, simply fill-in the following google form: https://docs.google.com/forms/d/e/1FAIpQLSfOku8vVWqndY_6WZ8H2lqbftxBq0EwXcwUWxggRO6ac0RIMQ/viewform?usp=sf_link[https://docs.google.com/forms/d/e/1FAIpQLSfOku8vVWqndY_6WZ8H2lqbftxBq0EwXcwUWxggRO6ac0RIMQ/viewform?usp=sf_link]
 
 ## Credit
 
 Each publication on this database should list the key members behind the MED-EAGG project as co-authors. If your project is approved by our committee, we will give you the exact list of people that should be listed in the paper along with the dataset.
+
+## Variables
+
+- Demographics (age, sex, etc.)
+- Type of medication and doses
+- ADHD core symptoms
+- Clinical Global Impression (CGI)
+- Acceptability
+- Tolerability
+- Blood pressure
+- Individual side effects
