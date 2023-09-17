@@ -10,13 +10,13 @@ The aim of the MED-EAGG projet is to make all the data we collected freely avail
 
 ## Before asking for the data
 
-Before reaching us to access the data, you must check that a project similar to the one you are planning is not already underway. To do so, carefully review the list of accepted projects here :
+Before reaching us to access the data, you must check that a project similar to the one you are planning is not already underway. To do so, carefully review the list of accepted projects here: https://docs.google.com/spreadsheets/d/1qgxnPo9E77LrsMqH3C6ANb3AoaNmDu5NV76WvtY-a0g/edit#gid=0[https://docs.google.com/spreadsheets/d/1qgxnPo9E77LrsMqH3C6ANb3AoaNmDu5NV76WvtY-a0g/edit#gid=0]
 
 ## Access to the data
 
 If the project you are planning is not already underway, to obtain the data, you should describe to our committee the rationale of your project, the variables you would need, and the team that will support the publication of the results. You can retrieve the codes for all the variables that can be requested in the various excel files above, and in the list at the bottom of this page.
 
-To apply for the data, simply fill-in the following google form:
+To apply for the data, simply fill-in the following google form: https://docs.google.com/forms/d/1hUgmore7yy6_AaSqpuiSP7R0KG3Ve9nD1yyFnIaDBCU/edit[https://docs.google.com/forms/d/1hUgmore7yy6_AaSqpuiSP7R0KG3Ve9nD1yyFnIaDBCU/edit]
 
 ## Credit
 
