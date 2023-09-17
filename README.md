@@ -2,7 +2,7 @@
 
 ## Description of the database
 
-The MED-EAGG project is a database of 151 randomized controlled trials (RCTs) exploring the efficacy/safety of pharmacological interventions for people with Attention-Deficit/Hyperactivity Disorder (ADHD). The collection of the data from these RCTS has been performed within the context of a network meta-analysis led by Prof Samuele Cortese (University of Southampton), on the behald of the European ADHD Guidelines Group (EAGG).
+The MED-EAGG project is a database of 151 randomized controlled trials (RCTs) exploring the efficacy/safety of pharmacological interventions for people with Attention-Deficit/Hyperactivity Disorder (ADHD). The collection of the data from these RCTS has been performed within the context of a network-meta-analysis[https://pubmed.ncbi.nlm.nih.gov/30097390/] led by Prof Samuele Cortese (University of Southampton), on the behald of the European ADHD Guidelines Group (EAGG).
 
 ## Steps for a project using the MED-ADHD dataset
 
