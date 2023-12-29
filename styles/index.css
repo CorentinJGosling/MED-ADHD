@@ -129,7 +129,13 @@ nav {
     left: 10px;
     display: block;
     position: fixed;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
     transform: rotate(0deg);
+    -webkit-transition: 0.5s ease-in-out;
+    -moz-transition: 0.5s ease-in-out;
+    -o-transition: 0.5s ease-in-out;
     transition: 0.5s ease-in-out;
     cursor: pointer;
   }
@@ -142,7 +148,13 @@ nav {
   width: 50%;
   background: #5d7c85;
   opacity: 1;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
   transform: rotate(0deg);
+  -webkit-transition: 0.25s ease-in-out;
+  -moz-transition: 0.25s ease-in-out;
+  -o-transition: 0.25s ease-in-out;
   transition: 0.25s ease-in-out;
 }
 
@@ -173,11 +185,17 @@ nav {
 
 #hamburger-menu.open span:nth-child(1),
 #hamburger-menu.open span:nth-child(6) {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
   transform: rotate(45deg);
 }
 
 #hamburger-menu.open span:nth-child(2),
 #hamburger-menu.open span:nth-child(5) {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
   transform: rotate(-45deg);
 }
 
@@ -260,7 +278,7 @@ h1 {
   max-width: 30ch;
   margin-left: auto;
   margin-right: auto;
-  font-size: 2.5rem;
+  font-size: 2rem;
   height: auto;
 }
 
@@ -294,16 +312,17 @@ h1 {
   background-color: rgb(181, 228, 238);
 }
 
-#description {
-  color: #424242;
-  margin-left: 1rem;
-  margin-right: 1rem;
-}
-#description .descript_title {
+.descript_title {
   text-align: center;
   font-size: 2.5rem;
   margin-bottom: 1.5rem;
   font-weight: bold;
+}
+
+#description {
+  color: #424242;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 #description .descript_body {
   font-family: Calibri, sans-serif;
@@ -371,18 +390,20 @@ h1 {
   box-shadow: rgba(100, 100, 111, 0.5) 0px 7px 10px 10px;
 }
 
-#steps {
-  margin-top: 2rem;
-  color: #424242;
-}
-#steps .steps_title {
+.steps_title {
   max-width: 30ch;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  font-size: 2.5rem;
-  margin-bottom: 1.5rem;
+  font-size: 1.25rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
   font-weight: bold;
+}
+
+#steps {
+  margin-top: 2rem;
+  color: #424242;
 }
 #steps .steps_subtitle {
   font-size: 1.5rem;
@@ -443,8 +464,7 @@ h1 {
   padding: var(--boxPadding) calc(var(--inlinePadding) + var(--arrowClipSize)) var(--boxPadding) calc(var(--inlinePadding) + var(--labelOffset));
   grid-template-areas: "icon title" "icon text";
   gap: 0.25em 1em;
-  -webkit-clip-path: polygon(0 0, calc(100% - var(--arrowClipSize)) 0, 100% 50%, calc(100% - var(--arrowClipSize)) 100%, calc(100% - var(--arrowClipSize)) calc(100% + var(--cardsGap)), 0 calc(100% + var(--cardsGap)));
-          clip-path: polygon(0 0, calc(100% - var(--arrowClipSize)) 0, 100% 50%, calc(100% - var(--arrowClipSize)) 100%, calc(100% - var(--arrowClipSize)) calc(100% + var(--cardsGap)), 0 calc(100% + var(--cardsGap)));
+  clip-path: polygon(0 0, calc(100% - var(--arrowClipSize)) 0, 100% 50%, calc(100% - var(--arrowClipSize)) 100%, calc(100% - var(--arrowClipSize)) calc(100% + var(--cardsGap)), 0 calc(100% + var(--cardsGap)));
   position: relative;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   height: 250px;
@@ -457,8 +477,7 @@ h1 {
   background: var(--cardColor);
   left: 0;
   bottom: 0;
-  -webkit-clip-path: polygon(0 0, 100% 0, 0 100%);
-          clip-path: polygon(0 0, 100% 0, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 0 100%);
   filter: brightness(0.75);
 }
 #steps .olcards li .content::after {

@@ -277,7 +277,7 @@ h1 {
   max-width: 30ch;
   margin-left: auto;
   margin-right: auto;
-  font-size: 2.5rem;
+  font-size: 2rem;
   height: auto;
 }
 .buttons {
@@ -309,17 +309,17 @@ h1 {
     }
   }
 }
+.descript_title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: bold;
+}
 
 #description {
   color: #424242;
   margin-left: 1rem;
   margin-right: 1rem;
-  .descript_title {
-    text-align: center;
-    font-size: 2.5rem;
-    margin-bottom: 1.5rem;
-    font-weight: bold;
-  }
   .descript_body {
     font-family: Calibri, sans-serif;
     // display: flex;
@@ -386,20 +386,22 @@ h1 {
   }
 }
 
+.steps_title {
+  max-width: 30ch;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 1.25rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
 #steps {
   margin-top: 2rem;
   color: #424242;
   //   background-color: #99d9ea;
   //   background-color: #424242;
-  .steps_title {
-    max-width: 30ch;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    font-size: 2.5rem;
-    margin-bottom: 1.5rem;
-    font-weight: bold;
-  }
   .steps_subtitle {
     font-size: 1.5rem;
     margin-bottom: 1.5rem;
